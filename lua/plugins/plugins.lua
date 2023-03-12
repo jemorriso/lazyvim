@@ -9,4 +9,7 @@ return {
   {
     "jpalardy/vim-slime",
   },
+  {
+    "mg979/vim-visual-multi",
+  },
 }
