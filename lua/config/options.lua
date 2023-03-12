@@ -7,7 +7,7 @@ vim.opt.relativenumber = false
 
 vim.opt.cmdheight = 1
 
-vim.g.maplocalleader = ";"
+vim.g.maplocalleader = [[;]]
 
 vim.g.slime_target = "tmux"
 
