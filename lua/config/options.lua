@@ -11,5 +11,6 @@ vim.g.maplocalleader = [[;]]
 
 vim.g.slime_target = "tmux"
 
+vim.g.tidal_no_mappings = 1
 vim.g.tidal_target = "tmux"
 vim.g.tidal_default_config = { socket_name = "default", target_pane = ":.1" }
