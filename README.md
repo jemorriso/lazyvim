@@ -10,3 +10,5 @@ I added `black` python formatter to the `null-ls` config. Following the instruct
 
 Note that there is extra `null-ls` config defined in the lazyvim repo, my extra config merges with that config.
 
+(source)[https://www.lazyvim.org/configuration/plugins]
+
